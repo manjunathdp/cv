@@ -1,0 +1,29 @@
+hr{
+       
+    border-style: dotted none none;
+    border-color: rgb(237, 195, 119);
+    height: 0px;
+    width: 10%;
+    border-width: 8px;
+    text-align: center;
+    
+  }
+  body{
+    background-color: aquamarine;
+  }
+
+  h1{
+    color: orange;
+  }
+  h3{
+    color: brown;
+  }
+  table{
+    width: 70%;
+  }
+  input{
+    width:100%;
+  }
+  textarea{
+    width:100%;
+  }
